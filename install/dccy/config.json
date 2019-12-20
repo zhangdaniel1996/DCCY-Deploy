@@ -1,0 +1,8 @@
+{
+	"config_dir": "./dccy_node",
+	"data_dir": "./dccy_node",
+	"core_symbol": "DCCY",
+	"pubkey_prefix": "DCCY",
+    "http_server_address": "0.0.0.0:8870",
+	"p2p_listen_endpoint": "0.0.0.0:9870"
+}
