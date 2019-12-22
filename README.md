@@ -11,7 +11,6 @@ cd DCCY-Deploy/install
 ```
 apt update
 apt -y install curl sudo libusb-1.0-0-dev libicu-dev
-sh install.sh 2>&1 >>/dev/null
 ```
 - Installation and operation environment
 > MD5 (installer-sakra.sh) == a78ac87f39b908f641c6bf34b9af1ccc  
@@ -56,7 +55,7 @@ chmod +x node.js
 ---
 
 **Configuration item modification**  
-config.js in the dccy directory
+config.json in the dccy directory
 ```
 "config_dir": "./dccy_node",            // Generated config.ini directory
 "data_dir": "./dccy_node",              // Block data directory

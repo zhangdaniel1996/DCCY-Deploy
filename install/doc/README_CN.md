@@ -10,7 +10,6 @@ cd DCCY-Deploy/install
 ```
 apt update
 apt -y install curl sudo libusb-1.0-0-dev libicu-dev
-sh install.sh 2>&1 >>/dev/null
 ```
 - 安装运行环境  
 > MD5 (installer-sakra.sh) == a78ac87f39b908f641c6bf34b9af1ccc  
@@ -55,7 +54,7 @@ chmod +x node.js
 ---
 
 **配置项修改**  
-dccy目录下的config.js
+dccy目录下的config.json
 ```
 "config_dir": "./dccy_node",            // 生成后的config.ini的目录
 "data_dir": "./dccy_node",              // 区块数据目录
