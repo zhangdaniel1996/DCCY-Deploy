@@ -1,4 +1,6 @@
 ### DCCY 安装教程
+### [RPC Document](https://github.com/DCCY-Group/DCCY-Deploy/blob/master/install/doc/DCCY_RPC.md)
+
 操作系统要求: **ubuntu 16.04**
 1. 安装DCCY
 - 下载代码

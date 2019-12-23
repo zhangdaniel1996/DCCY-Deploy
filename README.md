@@ -1,5 +1,7 @@
 ### DCCY Installation tutorial
 ### [中文说明](https://github.com/DCCY-Group/DCCY-Deploy/blob/master/install/doc/README_CN.md)
+### [RPC Document](https://github.com/DCCY-Group/DCCY-Deploy/blob/master/install/doc/DCCY_RPC.md)
+
 Operating system requirements: **ubuntu 16.04**
 1. Install DCCY
 - Download the code
